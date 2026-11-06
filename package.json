@@ -1,0 +1,22 @@
+{
+  "name": "servidor-personas",
+  "version": "1.0.0",
+  "description": "API REST para gestión de personas con Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "express",
+    "crud",
+    "personas",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
